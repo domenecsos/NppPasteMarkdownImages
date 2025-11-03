@@ -22,7 +22,7 @@
 
 You are done "pasting" images into Markdown with Notepad++! :)
 
-The images above and all images in this document where "pasted" as explained.
+The images above and all images in this document and site were "pasted" as explained.
 
 ## How it works
 
